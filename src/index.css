@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-natural-bg: #F8F9F1;
+  --color-natural-ink: #2C332A;
+  --color-natural-ink-dark: #1B2019;
+  --color-natural-line: #E2E8CE;
+  --color-natural-surface: #E9EDDE;
+  --color-natural-eco: #5E8C61;
+  --color-natural-money: #D4A373;
+  --color-natural-awareness: #4F6D7A;
+  --color-natural-white: #FFFFFF;
+  --color-natural-muted: #7C9082;
+  --color-natural-text-desc: #545B51;
+  
+  --font-sans: 'Helvetica Neue', Arial, sans-serif;
+}
